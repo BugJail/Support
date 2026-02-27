@@ -4,7 +4,7 @@
 
 Open public issue in [GitHub](https://github.com/BugJail/Support/issues)
 
-Open private issue via email [support@bugjail.com](mailto://support@bugjail.com)
+Open private issue via email [support@bugjail.com](mailto:support@bugjail.com)
 
 
 ## Release Downloads
